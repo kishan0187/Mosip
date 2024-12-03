@@ -1,0 +1,23 @@
+InjiWallet/
+│
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/
+│   │   │   │   ├── com/
+│   │   │   │   │   ├── injiwallet/
+│   │   │   │   │   │   ├── authentication/
+│   │   │   │   │   │   ├── faceauthentication/
+│   │   │   │   │   │   ├── keys/
+│   │   │   │   │   │   ├── profile/
+│   │   │   │   │   │   ├── vcmanagement/
+│   │   │   │   │   │   ├── utils/
+│   │   │   │   │   │   ├── MainActivity.java
+│   │   │   │   │   │   └── LoginActivity.java
+│   │   ├── res/
+│   │   │   ├── layout/
+│   │   │   │   ├── activity_main.xml
+│   │   │   │   ├── activity_login.xml
+│   ├── build.gradle
+├── build.gradle
+└── settings.gradle
